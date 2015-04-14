@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "n.berniolles@gmail.com",
+    "longName": "JetStick",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "JetStick",
+    "uuid": "7591d3a6-4179-45ae-80b1-c19b5f0c890d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
