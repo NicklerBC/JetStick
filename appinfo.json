@@ -7,13 +7,7 @@
     "longName": "JetStick",
     "projectType": "native",
     "resources": {
-        "media": [
-            {
-                "file": "images/index.png",
-                "name": "Image_1",
-                "type": "png"
-            }
-        ]
+        "media": []
     },
     "sdkVersion": "2",
     "shortName": "JetStick",
